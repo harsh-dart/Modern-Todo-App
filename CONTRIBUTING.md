@@ -38,6 +38,10 @@ Thank you for considering contributing to our project! We are excited to have yo
    - Provide a meaningful description of your changes.
    - Submit the pull request.
 
+## Code of Conduct
+
+This project adheres to a [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [ht87374@gmail.com](mailto:ht87374@gmail.com).
+
 ## License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
