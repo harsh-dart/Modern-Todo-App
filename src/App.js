@@ -92,7 +92,7 @@ function App() {
       {todos.length > 0 && (
         <TodoList
           todos={todos}
-          deleteTodo={()=>{}}
+          deleteTodo={deleteTodoHandler}
           isCompletedHandler={isCompleteHandler}
           todosToShow={todoWindowToShow}
           window={window}
