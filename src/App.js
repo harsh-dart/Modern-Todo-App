@@ -82,7 +82,7 @@ function App() {
   return (
     <div>
       <header>
-        <h2>???????</h2>
+        <h2>Todo App</h2>
       </header>
       <InputNewTodo
         setInput={setNewTodo}
