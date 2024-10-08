@@ -97,7 +97,7 @@ function App() {
           todosToShow={todoWindowToShow}
           window={window}
           setWindow={setWindow}
-          clearComletedTodo={()=>{}}
+          clearComletedTodo={clearComletedTodo}
         />
       )}
     </div>
